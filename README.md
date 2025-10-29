@@ -8,15 +8,13 @@ The goal of this project is to develop JavaScript functions that drive a small b
 
 ## Table of contents
 
-- [A Number Guesser / Codecademy](#a-number-guesser--codecademy)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-  - [Project Goals](#project-goals)
-  - [Features](#features)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built With](#built-with)
-  - [Author](#author)
+- [Overview](#overview)
+- [Project Goals](#project-goals)
+- [Features](#features)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built With](#built-with)
+- [Author](#author)
  
 ---
 
