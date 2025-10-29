@@ -1,7 +1,6 @@
 # A Number Guesser / Codecademy
 
 This is a solution to the **"Challenge Project: Number Guesser"** on Codecademy.
-
 The goal of this project is to develop JavaScript functions that drive a small browser-based guessing game, allowing you to test your code and debug using the browser’s console.
 
 ---
@@ -53,7 +52,7 @@ You are expected to use your knowledge of JavaScript, as well as online resource
 ## Links
 
 - **Project Description:** [Codecademy Challenge Project](https://www.codecademy.com/journeys/front-end-engineer/paths/fecj-22-building-interactive-websites/tracks/fecj-22-javascript-syntax-part-i/modules/wdcp-22-number-guesser-0b03857c-d568-47a9-9867-c73f1536d20c/projects/number-guesser-independent-practice)
-- **Live Demo:** [Add live site URL here](https://your-live-site-url.com)
+- **Live Demo:** [Live page URL](https://axinitm.github.io/A-Number-Guesser-Codecademy/)
 - **Source Code:** [Add GitHub repository URL here](https://github.com/...)
 
 ---
